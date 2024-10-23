@@ -1,0 +1,26 @@
+[
+    {
+        "namaFakultas": "Filsafat",
+        "deskripsi": "Fakultas yang berfokus kepada falsafah pendidikan Kristen Advent dan kependetaan"
+    },
+    {
+        "namaFakultas": "Keguruan dan Ilmu Pendidikan",
+        "deskripsi": "Fakultas yang berfokus kepada ilmu pendidikan dan dasar-dasar keguruan"
+    },
+    {
+        "namaFakultas": "Ekonomi",
+        "deskripsi": "Fakultas yang berfokus kepada keuangan dan manajemen pemasaran"
+    },
+    {
+        "namaFakultas": "Ilmu Keperawatan",
+        "deskripsi": "Fakultas yang berfokus kepada profesi keperawatan"
+    },
+    {
+        "namaFakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "deskripsi": "Fakultas yang berfokus kepada praktik laboratorium sains"
+    },
+    {
+        "namaFakultas": "Teknologi Informasi",
+        "deskripsi": "Fakultas yang berfokus kepada teknologi, informasi, dan komunikasi"
+    }
+]

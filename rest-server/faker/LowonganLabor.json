@@ -1,0 +1,88 @@
+[
+    {
+        "posisi": "Network Administrator",
+        "departemenId": "65be77b5f4e0614eb297552c",
+        "penanggungJawab": "65be7326625bc03eb9769bdc",
+        "deskripsi": "Pekerjaan sebagai pegawai maintenance untuk memelihara dan memperbaiki jaringan internet di UNAI.",
+        "tanggungJawab": [
+            "Memelihara dan memperbaiki jaringan internet di UNAI.",
+            "Menjamin ketersediaan dan kinerja optimal jaringan.",
+            "Menanggapi dan memecahkan masalah jaringan."
+        ],
+        "persyaratan": [
+            "Pengalaman sebagai Network Administrator.",
+            "Pemahaman yang kuat tentang perangkat keras jaringan.",
+            "Pengetahuan mendalam tentang protokol jaringan dan keamanan."
+        ],
+        "gaji": 400000,
+        "tanggalPosting": "2024-02-03T12:00:00Z",
+        "tanggalTenggat": "2024-10-10T12:00:00Z",
+        "perluTest": false,
+        "tersedia": true
+    },
+    {
+        "posisi": "Resepsionis",
+        "departemenId": "65be77b5f4e0614eb297552d",
+        "penanggungJawab": "65be7326625bc03eb9769bde",
+        "deskripsi": "Pekerjaan sebagai penjaga pengunjung perpustakaan dan mencatat aksi keluar masuk mahasiswa.",
+        "tanggungJawab": [
+            "Menjaga pengunjung perpustakaan.",
+            "Mencatat aktivitas keluar-masuk mahasiswa.",
+            "Memberikan informasi kepada pengunjung."
+        ],
+        "persyaratan": [
+            "Keterampilan komunikasi dan keramahan yang baik.",
+            "Kemampuan multitasking yang baik.",
+            "Pemahaman dasar tentang sistem perpustakaan."
+        ],
+        "gaji": 400000,
+        "tanggalPosting": "2024-02-02T12:00:00Z",
+        "tanggalTenggat": "2024-10-20T12:00:00Z",
+        "perluTest": false,
+        "tersedia": true
+    },
+    {
+        "posisi": "Sekretaris Dekan",
+        "departemenId": "65be77b5f4e0614eb297552e",
+        "penanggungJawab": "65be746dc0ec1c89af854bb5",
+        "deskripsi": "Pekerjaan sebagai assistant dekan untuk membantu mencatat kegiatan serta keperluan fakultas Teknologi Informasi UNAI.",
+        "tanggungJawab": [
+            "Mencatat kegiatan dan keperluan Fakultas Teknologi Informasi UNAI.",
+            "Mendukung dekan dalam administrasi harian.",
+            "Menyusun laporan dan dokumen administratif."
+        ],
+        "persyaratan": [
+            "Keterampilan administratif yang baik.",
+            "Pemahaman tentang tata kelola akademik."
+        ],
+        "gaji": 400000,
+        "tanggalPosting": "2024-02-01T12:00:00Z",
+        "tanggalTenggat": "2024-12-20T12:00:00Z",
+        "perluTest": false,
+        "tersedia": true
+    },
+    {
+        "posisi": "Monitor Joseph 2B",
+        "departemenId": "65be77b5f4e0614eb297552f",
+        "penanggungJawab": "65be747ac0ec1c89af854bb7",
+        "deskripsi": "Pekerjaan sebagai monitor untuk memantau mahasiswa putra Joseph 2B.",
+        "tanggungJawab": [
+            "Mengabsen ibadah mahasiswa (worship pagi dan petang, malam vesper, rabu malam, vesper, ibadah Sabat, PA, 10 hari berdoa, dan minggu sembahyang)",
+            "Mengabsen kegiatan mahasiswa lainnya, juga chapel umum",
+            "Melaporkan kerusakan properti kamar ke bagian maintenance",
+            "Membangunkan mahasiswa setiap pagi dan memanggil mahasiswa untuk worship",
+            "Memantau aktivitas mahasiswa putra di Joseph 2B.",
+            "Memberikan laporan terkait kegiatan mahasiswa.",
+            "Menanggapi kejadian atau masalah yang mungkin timbul."
+        ],
+        "persyaratan": [
+            "Pemahaman tentang kebijakan kampus terkait disiplin mahasiswa.",
+            "Kemampuan observasi dan pelaporan yang baik."
+        ],
+        "gaji": 400000,
+        "tanggalPosting": "2024-01-03T12:00:00Z",
+        "tanggalTenggat": "2024-11-10T12:00:00Z",
+        "perluTest": false,
+        "tersedia": true
+    }
+]

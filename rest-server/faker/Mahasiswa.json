@@ -1,0 +1,66 @@
+[
+    {
+        "nama": "Johansen Sagala",
+        "nim": "2081031",
+        "password": "johansen123",
+        "email": "johansen@gmail.com",
+        "noTelp": "081388377456",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "angkatan": "2020",
+        "keterampilan": [
+            "Web Development",
+            "Graphic Design",
+            "Public Speaking",
+            "Project Management",
+            "Data Analysis"
+        ]
+    },
+    {
+        "nama": "Jonatan Situmorang",
+        "nim": "2081032",
+        "password": "jonatan123",
+        "email": "jonatan@gmail.com",
+        "noTelp": "081388364456",
+        "jurusanId": "65bb1c875c39fed270059747",
+        "angkatan": "2020",
+        "keterampilan": [
+            "Cooking",
+            "Photography",
+            "Social Media Marketing",
+            "Foreign Languages",
+            "Event Planning"
+        ]
+    },
+    {
+        "nama": "Irpan Buri Siburian",
+        "nim": "2081033",
+        "password": "irpan123",
+        "email": "irpan@gmail.com",
+        "noTelp": "081388378156",
+        "jurusanId": "65bb19035ddc2753612fb1f7",
+        "angkatan": "2020",
+        "keterampilan": [
+            "Woodworking",
+            "Public Relations",
+            "Financial Planning",
+            "Creative Writing",
+            "Fitness Training"
+        ]
+    },
+    {
+        "nama": "Jehezkiel Sihombing",
+        "nim": "2081034",
+        "password": "jehezkiel123",
+        "email": "jehezkiel@gmail.com",
+        "noTelp": "081312377456",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "angkatan": "2020",
+        "keterampilan": [
+            "Gardening",
+            "Music Production",
+            "Problem Solving",
+            "Public Speaking",
+            "Negotiation"
+        ]
+    }
+]

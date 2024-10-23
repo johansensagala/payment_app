@@ -1,0 +1,22 @@
+[
+    {
+        "namaDepartment": "IT Departmentt",
+        "deskripsi": "Department Teknologi Informasi (IT) bertanggung jawab atas pengelolaan dan pengembangan sistem teknologi informasi di seluruh organisasi. Department ini fokus pada implementasi dan pemeliharaan infrastruktur IT yang mencakup jaringan, server, dan aplikasi perangkat lunak. Menyediakan dukungan teknis dan solusi inovatif untuk meningkatkan efisiensi operasional.",
+        "kepalaDepartmentId": "65be7326625bc03eb9769bdc"
+    },
+    {
+        "namaDepartment": "Perpustakaan",
+        "deskripsi": "Department Perpustakaan adalah pusat sumber daya ilmu pengetahuan yang menyediakan koleksi bahan bacaan dan literatur untuk mendukung kegiatan belajar-mengajar dan riset. Memastikan ketersediaan dan aksesibilitas koleksi yang beragam, serta menyediakan layanan referensi untuk membantu pengguna dalam penelitian dan pencarian informasi.",
+        "kepalaDepartmentId": "65be7326625bc03eb9769bde"
+    },
+    {
+        "namaDepartment": "Fakultas Teknologi Informasi",
+        "deskripsi": "Fakultas Teknologi Informasi adalah entitas akademik yang fokus pada penyelenggaraan pendidikan tinggi di bidang teknologi informasi. Menawarkan program-program studi yang komprehensif untuk membekali mahasiswa dengan pengetahuan dan keterampilan terkini dalam dunia teknologi. Berkomitmen untuk menciptakan lingkungan akademis yang inovatif dan berorientasi pada perkembangan teknologi.",
+        "kepalaDepartmentId": "65be746dc0ec1c89af854bb5"
+    },
+    {
+        "namaDepartment": "Asrama Putra",
+        "deskripsi": "Asrama Putra adalah fasilitas perumahan yang menyediakan tempat tinggal bagi mahasiswa pria. Berupaya menciptakan lingkungan yang nyaman dan aman, mendukung pengalaman belajar-mengajar yang positif. Memberikan fasilitas dan layanan yang memenuhi kebutuhan sehari-hari mahasiswa, serta mempromosikan kolaborasi dan pertumbuhan pribadi.",
+        "kepalaDepartmentId": "65be747ac0ec1c89af854bb7"
+    }
+]

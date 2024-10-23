@@ -1,0 +1,34 @@
+[
+    {
+        "nama": "Obaja Lumbanraja",
+        "nip": "1030120",
+        "password": "obaja123",
+        "email": "obaja@gmail.com",
+        "noTelp": "081362785466",
+        "bidangKeahlianId": "65be43a6f0ad470ca564a052"
+    },
+    {
+        "nama": "Raymond Maulany",
+        "nip": "1030870",
+        "password": "raymond123",
+        "email": "raymond@gmail.com",
+        "noTelp": "081361685466",
+        "bidangKeahlianId": "65be43a6f0ad470ca564a056"
+    },
+    {
+        "nama": "Andrew Pakpahan",
+        "nip": "1036120",
+        "password": "andrew123",
+        "email": "andrew@gmail.com",
+        "noTelp": "081362736866",
+        "bidangKeahlianId": "65be43a6f0ad470ca564a04f"
+    },
+    {
+        "nama": "Victor Joe Sinaga",
+        "nip": "1030197",
+        "password": "victor123",
+        "email": "victor@gmail.com",
+        "noTelp": "081362717646",
+        "bidangKeahlianId": "65be43a6f0ad470ca564a010"
+    }
+]

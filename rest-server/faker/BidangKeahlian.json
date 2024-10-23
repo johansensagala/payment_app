@@ -1,0 +1,403 @@
+[
+    {
+        "namaBidang": "Teologi Kristen",
+        "jurusanId": "65bb1c365c39fed270059735",
+        "deskripsi": "Bidang keahlian ini membahas studi mendalam tentang doktrin-doktrin dan keyakinan dasar dalam teologi Kristen. Dosen-dosen dapat mengajarkan pemahaman yang mendalam tentang aspek-aspek inti iman Kristen dan bagaimana ajaran tersebut berkontribusi pada pemahaman umum tentang kehidupan dan iman."
+    },
+    {
+        "namaBidang": "Etika Kristen",
+        "jurusanId": "65bb1c365c39fed270059735",
+        "deskripsi": "Fokus pada bidang keahlian ini adalah pada nilai-nilai moral dan prinsip-prinsip etika dalam kerangka pemikiran Kristen. Dosen-dosen di bidang ini mungkin memimpin diskusi tentang bagaimana ajaran Kristen dapat membimbing keputusan etis dalam berbagai konteks dan situasi kehidupan."
+    },
+    {
+        "namaBidang": "Sejarah Gereja",
+        "jurusanId": "65bb1c365c39fed270059735",
+        "deskripsi": "Bidang keahlian ini membahas perkembangan dan evolusi Gereja Kristen Advent serta pemahaman sejarah gereja secara lebih luas. Dosen-dosen dapat memberikan wawasan tentang peristiwa-peristiwa kunci, tokoh-tokoh, dan perubahan dalam sejarah Gereja Kristen."
+    },
+    {
+        "namaBidang": "Hermeneutika Alkitab",
+        "jurusanId": "65bb1c365c39fed270059735",
+        "deskripsi": "Dalam bidang ini, dosen-dosen dapat membimbing mahasiswa dalam memahami metode penafsiran Alkitab yang benar dan mendalam. Fokus pada konteks sejarah, budaya, dan linguistik dapat membantu memahami pesan teks-teks Alkitab dengan lebih baik."
+    },
+    {
+        "namaBidang": "Filsafat Sains dan Agama",
+        "jurusanId": "65bb1c365c39fed270059735",
+        "deskripsi": "Melibatkan integrasi antara filsafat, agama, dan ilmu pengetahuan. Dosen-dosen dapat membahas interaksi antara keyakinan Kristen dan perkembangan ilmiah modern, membimbing mahasiswa dalam memahami peran agama dalam dialog dengan sains."
+    },
+    {
+        "namaBidang": "Apologética Kristen",
+        "jurusanId": "65bb1c365c39fed270059735",
+        "deskripsi": "Bidang ini fokus pada pembelaan terhadap keyakinan Kristen dalam konteks pemikiran kontemporer. Dosen-dosen dapat membantu mahasiswa merespons kritik dan membangun argumen yang kuat untuk mendukung keyakinan Kristen."
+    },
+    {
+        "namaBidang": "Mistik dan Spiritualitas Kristen",
+        "jurusanId": "65bb1c365c39fed270059735",
+        "deskripsi": "Dosen-dosen dapat memandu mahasiswa dalam penelitian pengalaman mistik dan dimensi spiritual dalam tradisi Kristen. Diskusi tentang praktik doa dan pertumbuhan spiritual dapat menjadi bagian dari pengajaran."
+    },
+    {
+        "namaBidang": "Studi Pemikiran Ellen G. White",
+        "jurusanId": "65bb1c365c39fed270059735",
+        "deskripsi": "Bidang ini berfokus pada studi mendalam tentang pemikiran dan ajaran Ellen G. White, seorang tokoh penting dalam tradisi Kristen Advent. Dosen-dosen dapat membimbing mahasiswa dalam menggali pemahaman mereka terhadap warisan teologisnya."
+    },
+    {
+        "namaBidang": "Teori Bilangan",
+        "jurusanId": "65bb1c425c39fed270059737",
+        "deskripsi": "Bidang keahlian ini membahas konsep-konsep teori bilangan dalam matematika. Dosen-dosen dapat memberikan wawasan tentang sifat-sifat dasar bilangan, teorema-terorema terkait, dan aplikasinya dalam berbagai konteks matematika."
+    },
+    {
+        "namaBidang": "Geometri Diferensial",
+        "jurusanId": "65bb1c425c39fed270059737",
+        "deskripsi": "Fokus pada bidang keahlian ini adalah studi tentang kurva dan permukaan dalam ruang tiga dimensi. Dosen-dosen dapat membimbing mahasiswa dalam memahami konsep-konsep kompleks geometri diferensial dan aplikasinya dalam ilmu matematika dan fisika."
+    },
+    {
+        "namaBidang": "Aljabar Abstrak",
+        "jurusanId": "65bb1c425c39fed270059737",
+        "deskripsi": "Mencakup kajian terhadap struktur-aljabar yang lebih abstrak seperti grup, cincin, dan medan. Dosen-dosen dapat membantu mahasiswa memahami konsep-konsep aljabar yang mendasar dan mengaplikasikannya dalam berbagai konteks matematika modern."
+    },
+    {
+        "namaBidang": "Pemodelan Matematika",
+        "jurusanId": "65bb1c425c39fed270059737",
+        "deskripsi": "Bidang ini berkaitan dengan penggunaan matematika untuk memodelkan fenomena dunia nyata. Dosen-dosen dapat membimbing mahasiswa dalam mengembangkan model matematika untuk pemecahan masalah di berbagai bidang, seperti ekonomi, biologi, dan ilmu lainnya."
+    },
+    {
+        "namaBidang": "Teori Graf",
+        "jurusanId": "65bb1c425c39fed270059737",
+        "deskripsi": "Studi tentang konsep graf dan struktur matematis yang mendasarinya. Dosen-dosen dapat memandu mahasiswa dalam memahami aplikasi teori graf dalam berbagai bidang, termasuk jaringan komputer, logistik, dan pemodelan jaringan sosial."
+    },
+    {
+        "namaBidang": "Analisis Kompleks",
+        "jurusanId": "65bb1c425c39fed270059737",
+        "deskripsi": "Mencakup studi tentang fungsi kompleks dan analisis kompleks. Dosen-dosen dapat memberikan pemahaman mendalam tentang konsep-konsep analisis kompleks dan penerapannya dalam riset matematika modern."
+    },
+    {
+        "namaBidang": "Statistika Matematis",
+        "jurusanId": "65bb1c425c39fed270059737",
+        "deskripsi": "Studi tentang metode statistika dalam konteks matematika. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman konsep statistika matematis dan aplikasinya dalam penelitian dan analisis data."
+    },
+    {
+        "namaBidang": "Optimisasi",
+        "jurusanId": "65bb1c425c39fed270059737",
+        "deskripsi": "Fokus pada teknik-teknik pemecahan masalah yang berkaitan dengan optimisasi. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman konsep optimisasi matematis dan aplikasinya dalam berbagai bidang, termasuk manajemen rantai pasokan, keuangan, dan rekayasa."
+    },
+    {
+        "namaBidang": "Teori Linguistik",
+        "jurusanId": "65bb1c495c39fed270059739",
+        "deskripsi": "Bidang ini membahas teori-teori linguistik yang mendasari struktur dan fungsi bahasa. Dosen-dosen dapat membimbing mahasiswa dalam memahami prinsip-prinsip dasar linguistik dan penerapannya dalam konteks pengajaran bahasa Inggris."
+    },
+    {
+        "namaBidang": "Sastra Inggris",
+        "jurusanId": "65bb1c495c39fed270059739",
+        "deskripsi": "Fokus pada kajian sastra bahasa Inggris, termasuk karya-karya klasik dan kontemporer. Dosen-dosen dapat membantu mahasiswa memahami analisis sastra, gaya penulisan, dan konteks budaya dalam sastra Inggris."
+    },
+    {
+        "namaBidang": "Pengajaran Bahasa Inggris sebagai Bahasa Asing",
+        "jurusanId": "65bb1c495c39fed270059739",
+        "deskripsi": "Bidang ini berkaitan dengan metode-metode pengajaran bahasa Inggris kepada pembicara bahasa asing. Dosen-dosen dapat membimbing mahasiswa dalam mengembangkan keterampilan pengajaran dan merancang kurikulum yang efektif."
+    },
+    {
+        "namaBidang": "Linguistik Terapan",
+        "jurusanId": "65bb1c495c39fed270059739",
+        "deskripsi": "Menerapkan prinsip-prinsip linguistik dalam konteks pengajaran dan penerjemahan. Dosen-dosen dapat membimbing mahasiswa dalam menerapkan teori linguistik dalam praktik pengajaran dan kegiatan terjemahan."
+    },
+    {
+        "namaBidang": "Analisis Wacana",
+        "jurusanId": "65bb1c495c39fed270059739",
+        "deskripsi": "Membahas analisis teks dan wacana untuk memahami penggunaan bahasa dalam konteks sosial dan budaya. Dosen-dosen dapat membimbing mahasiswa dalam analisis kritis teks dan penerapannya dalam riset linguistik."
+    },
+    {
+        "namaBidang": "Penerjemahan",
+        "jurusanId": "65bb1c495c39fed270059739",
+        "deskripsi": "Fokus pada keahlian penerjemahan antara bahasa Inggris dan bahasa lain. Dosen-dosen dapat membimbing mahasiswa dalam mengembangkan keterampilan penerjemahan yang akurat dan kontekstual."
+    },
+    {
+        "namaBidang": "Lingkungan Pembelajaran Bahasa Inggris",
+        "jurusanId": "65bb1c495c39fed270059739",
+        "deskripsi": "Membahas faktor-faktor yang memengaruhi pembelajaran bahasa Inggris, termasuk teknologi, budaya populer, dan strategi pengajaran inovatif. Dosen-dosen dapat membimbing mahasiswa dalam merancang lingkungan pembelajaran yang efektif."
+    },
+    {
+        "namaBidang": "Pengembangan Kurikulum Bahasa Inggris",
+        "jurusanId": "65bb1c495c39fed270059739",
+        "deskripsi": "Mengkaji desain, implementasi, dan evaluasi kurikulum pengajaran bahasa Inggris. Dosen-dosen dapat membimbing mahasiswa dalam merancang kurikulum yang sesuai dengan kebutuhan pembelajar bahasa Inggris."
+    },
+    {
+        "namaBidang": "Akuntansi Keuangan",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "deskripsi": "Bidang ini membahas prinsip-prinsip dasar akuntansi keuangan, termasuk penyusunan laporan keuangan. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman konsep dasar pembukuan dan pelaporan keuangan perusahaan."
+    },
+    {
+        "namaBidang": "Akuntansi Manajemen",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "deskripsi": "Fokus pada penggunaan informasi akuntansi untuk pengambilan keputusan manajerial. Dosen-dosen dapat membimbing mahasiswa dalam analisis biaya, perencanaan anggaran, dan evaluasi kinerja perusahaan."
+    },
+    {
+        "namaBidang": "Audit dan Assurance",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "deskripsi": "Bidang ini berkaitan dengan pemeriksaan dan penjaminan keberlanjutan laporan keuangan. Dosen-dosen dapat membimbing mahasiswa dalam proses audit, pengendalian internal, dan penerapan standar audit."
+    },
+    {
+        "namaBidang": "Perpajakan",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "deskripsi": "Membahas sistem perpajakan dan kewajiban perpajakan perusahaan. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman hukum pajak, perencanaan pajak, dan kepatuhan perusahaan terhadap peraturan pajak."
+    },
+    {
+        "namaBidang": "Akuntansi Syariah",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "deskripsi": "Studi tentang prinsip-prinsip akuntansi yang sesuai dengan prinsip syariah Islam. Dosen-dosen dapat membimbing mahasiswa dalam memahami konsep-konsep akuntansi syariah dan aplikasinya dalam keuangan Islam."
+    },
+    {
+        "namaBidang": "Forensik Akuntansi",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "deskripsi": "Mengkaji metode-metode investigasi dalam konteks kecurangan keuangan dan korupsi. Dosen-dosen dapat membimbing mahasiswa dalam mengidentifikasi tanda-tanda kecurangan dan penerapan teknik forensik akuntansi."
+    },
+    {
+        "namaBidang": "Akuntansi Sektor Publik",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "deskripsi": "Membahas praktik akuntansi dalam sektor publik, termasuk penyusunan laporan keuangan pemerintah. Dosen-dosen dapat membimbing mahasiswa dalam memahami sistem akuntansi publik dan prinsip akuntansi pemerintah."
+    },
+    {
+        "namaBidang": "Akuntansi Internasional",
+        "jurusanId": "65bb1c525c39fed27005973b",
+        "deskripsi": "Studi tentang standar akuntansi internasional dan pengaruhnya terhadap laporan keuangan perusahaan multinasional. Dosen-dosen dapat membimbing mahasiswa dalam penerapan IFRS (International Financial Reporting Standards)."
+    },
+    {
+        "namaBidang": "Manajemen Sumber Daya Manusia",
+        "jurusanId": "65bb1c595c39fed27005973d",
+        "deskripsi": "Bidang ini membahas strategi pengelolaan sumber daya manusia dalam organisasi. Dosen-dosen dapat membimbing mahasiswa dalam perekrutan, pelatihan, pengembangan, dan evaluasi kinerja pegawai."
+    },
+    {
+        "namaBidang": "Manajemen Operasional",
+        "jurusanId": "65bb1c595c39fed27005973d",
+        "deskripsi": "Fokus pada efisiensi operasional dan pengelolaan rantai pasokan. Dosen-dosen dapat membimbing mahasiswa dalam perencanaan produksi, kontrol kualitas, dan optimisasi proses bisnis."
+    },
+    {
+        "namaBidang": "Manajemen Strategis",
+        "jurusanId": "65bb1c595c39fed27005973d",
+        "deskripsi": "Bidang ini berkaitan dengan perumusan dan implementasi strategi bisnis jangka panjang. Dosen-dosen dapat membimbing mahasiswa dalam analisis lingkungan bisnis, pengembangan visi misi, dan pengambilan keputusan strategis."
+    },
+    {
+        "namaBidang": "Manajemen Keuangan",
+        "jurusanId": "65bb1c595c39fed27005973d",
+        "deskripsi": "Membahas pengelolaan keuangan perusahaan, termasuk perencanaan keuangan, pengelolaan aset, dan analisis investasi. Dosen-dosen dapat membimbing mahasiswa dalam pengambilan keputusan keuangan yang efektif."
+    },
+    {
+        "namaBidang": "Pemasaran dan Manajemen Produk",
+        "jurusanId": "65bb1c595c39fed27005973d",
+        "deskripsi": "Fokus pada pengembangan dan implementasi strategi pemasaran. Dosen-dosen dapat membimbing mahasiswa dalam riset pasar, pengembangan produk, dan perencanaan kampanye pemasaran."
+    },
+    {
+        "namaBidang": "Manajemen Proyek",
+        "jurusanId": "65bb1c595c39fed27005973d",
+        "deskripsi": "Studi tentang perencanaan, pelaksanaan, dan pengendalian proyek bisnis. Dosen-dosen dapat membimbing mahasiswa dalam manajemen risiko, penjadwalan, dan pemantauan proyek."
+    },
+    {
+        "namaBidang": "Manajemen Inovasi dan Teknologi",
+        "jurusanId": "65bb1c595c39fed27005973d",
+        "deskripsi": "Bidang ini membahas pengelolaan inovasi dan teknologi dalam konteks bisnis. Dosen-dosen dapat membimbing mahasiswa dalam strategi inovasi, pengelolaan teknologi, dan adaptasi perubahan teknologi."
+    },
+    {
+        "namaBidang": "Etika Bisnis dan Tanggung Jawab Sosial",
+        "jurusanId": "65bb1c595c39fed27005973d",
+        "deskripsi": "Membahas aspek etika dan tanggung jawab sosial perusahaan. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman etika bisnis, keberlanjutan, dan dampak sosial dari keputusan manajerial."
+    },
+    {
+        "namaBidang": "Keperawatan Medikal Bedah",
+        "jurusanId": "65bb1c635c39fed27005973f",
+        "deskripsi": "Bidang ini membahas perawatan pasien dengan kondisi medis atau bedah. Dosen-dosen dapat membimbing mahasiswa dalam perawatan pascaoperasi, manajemen nyeri, dan pemahaman prosedur medis."
+    },
+    {
+        "namaBidang": "Keperawatan Maternitas",
+        "jurusanId": "65bb1c635c39fed27005973f",
+        "deskripsi": "Fokus pada perawatan ibu hamil, persalinan, dan pasien neonatal. Dosen-dosen dapat membimbing mahasiswa dalam pemantauan kehamilan, persiapan persalinan, dan perawatan neonatal."
+    },
+    {
+        "namaBidang": "Keperawatan Anak",
+        "jurusanId": "65bb1c635c39fed27005973f",
+        "deskripsi": "Bidang ini berkaitan dengan perawatan anak-anak dari berbagai rentang usia. Dosen-dosen dapat membimbing mahasiswa dalam identifikasi penyakit anak, perawatan pranatal, dan dukungan psikososial untuk keluarga."
+    },
+    {
+        "namaBidang": "Keperawatan Jiwa",
+        "jurusanId": "65bb1c635c39fed27005973f",
+        "deskripsi": "Membahas perawatan pasien dengan gangguan kesehatan mental. Dosen-dosen dapat membimbing mahasiswa dalam evaluasi kondisi jiwa, intervensi terapeutik, dan dukungan kepada pasien jiwa."
+    },
+    {
+        "namaBidang": "Keperawatan Komunitas",
+        "jurusanId": "65bb1c635c39fed27005973f",
+        "deskripsi": "Fokus pada perawatan kesehatan di tingkat komunitas. Dosen-dosen dapat membimbing mahasiswa dalam perencanaan program kesehatan masyarakat, pendidikan kesehatan, dan pencegahan penyakit di masyarakat."
+    },
+    {
+        "namaBidang": "Keperawatan Gerontik",
+        "jurusanId": "65bb1c635c39fed27005973f",
+        "deskripsi": "Bidang ini membahas perawatan lanjut usia dan kondisi terkait penuaan. Dosen-dosen dapat membimbing mahasiswa dalam perawatan pasien lanjut usia, manajemen penyakit kronis, dan promosi kesehatan di kalangan lansia."
+    },
+    {
+        "namaBidang": "Keperawatan Kritis",
+        "jurusanId": "65bb1c635c39fed27005973f",
+        "deskripsi": "Mengkaji perawatan pasien dalam kondisi kritis atau kedaruratan. Dosen-dosen dapat membimbing mahasiswa dalam manajemen resusitasi, perawatan intensif, dan pemantauan pasien kritis."
+    },
+    {
+        "namaBidang": "Keperawatan Komplementer dan Alternatif",
+        "jurusanId": "65bb1c635c39fed27005973f",
+        "deskripsi": "Bidang ini mencakup penggunaan terapi komplementer dan alternatif sebagai tambahan pada perawatan konvensional. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman terapi herbal, akupunktur, dan yoga dalam konteks perawatan keperawatan."
+    },
+    {
+        "namaBidang": "Biologi Molekuler",
+        "jurusanId": "65bb1c6c5c39fed270059741",
+        "deskripsi": "Bidang ini membahas struktur dan fungsi molekul biologis seperti DNA, RNA, dan protein. Dosen-dosen dapat membimbing mahasiswa dalam teknik-teknik analisis molekuler dan aplikasinya dalam riset biologi."
+    },
+    {
+        "namaBidang": "Ekologi",
+        "jurusanId": "65bb1c6c5c39fed270059741",
+        "deskripsi": "Fokus pada hubungan antara organisme dan lingkungan mereka. Dosen-dosen dapat membimbing mahasiswa dalam studi populasi, komunitas, dan ekosistem, serta dampak perubahan lingkungan terhadap kehidupan."
+    },
+    {
+        "namaBidang": "Biologi Sel",
+        "jurusanId": "65bb1c6c5c39fed270059741",
+        "deskripsi": "Membahas struktur dan fungsi sel, serta proses-proses seluler seperti mitosis dan meiosis. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman dasar biologi sel dan aplikasinya dalam riset dan pengembangan obat."
+    },
+    {
+        "namaBidang": "Genetika",
+        "jurusanId": "65bb1c6c5c39fed270059741",
+        "deskripsi": "Studi tentang pewarisan sifat dan variasi genetik. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman konsep genetika, teknik manipulasi gen, dan penerapannya dalam pemuliaan tanaman dan hewan."
+    },
+    {
+        "namaBidang": "Biologi Evolusi",
+        "jurusanId": "65bb1c6c5c39fed270059741",
+        "deskripsi": "Membahas teori evolusi dan mekanisme evolusioner. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman evolusi biologis, peranan seleksi alam, dan bukti-bukti evolusi dalam berbagai organisme."
+    },
+    {
+        "namaBidang": "Biologi Mikroba",
+        "jurusanId": "65bb1c6c5c39fed270059741",
+        "deskripsi": "Bidang ini berkaitan dengan studi mikroorganisme seperti bakteri, virus, dan fungi. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman peran mikroba dalam kesehatan, penyakit, dan aplikasi industri."
+    },
+    {
+        "namaBidang": "Biologi Perilaku",
+        "jurusanId": "65bb1c6c5c39fed270059741",
+        "deskripsi": "Fokus pada studi perilaku organisme. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman faktor-faktor yang memengaruhi perilaku, adaptasi, dan interaksi sosial dalam konteks biologi perilaku."
+    },
+    {
+        "namaBidang": "Biokimia",
+        "jurusanId": "65bb1c6c5c39fed270059741",
+        "deskripsi": "Membahas reaksi kimia yang terjadi dalam sel dan organisme hidup. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman proses biokimia seperti metabolisme, sintesis protein, dan regulasi genetik."
+    },
+    {
+        "namaBidang": "Farmakologi",
+        "jurusanId": "65bb1c745c39fed270059743",
+        "deskripsi": "Bidang ini membahas interaksi obat dengan organisme. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman efek farmakologis, mekanisme kerja obat, dan pengembangan obat baru."
+    },
+    {
+        "namaBidang": "Kimia Farmasi",
+        "jurusanId": "65bb1c745c39fed270059743",
+        "deskripsi": "Fokus pada studi kimia senyawa-senyawa yang digunakan dalam formulasi obat. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman struktur kimia obat, sintesis senyawa, dan analisis obat."
+    },
+    {
+        "namaBidang": "Teknologi Farmasi",
+        "jurusanId": "65bb1c745c39fed270059743",
+        "deskripsi": "Bidang ini berkaitan dengan formulasi, produksi, dan pengujian obat. Dosen-dosen dapat membimbing mahasiswa dalam pengembangan formulasi obat, teknik manufaktur, dan kontrol kualitas obat."
+    },
+    {
+        "namaBidang": "Farmasi Klinik",
+        "jurusanId": "65bb1c745c39fed270059743",
+        "deskripsi": "Membahas peran farmasis dalam pengelolaan terapi obat pasien di lingkungan klinis. Dosen-dosen dapat membimbing mahasiswa dalam pemberian informasi obat, pemantauan efek samping, dan konseling pasien."
+    },
+    {
+        "namaBidang": "Farmasi Sosial dan Administrasi",
+        "jurusanId": "65bb1c745c39fed270059743",
+        "deskripsi": "Fokus pada aspek sosial dan administratif dalam praktik farmasi. Dosen-dosen dapat membimbing mahasiswa dalam etika farmasi, manajemen stok obat, dan peran farmasis dalam sistem pelayanan kesehatan."
+    },
+    {
+        "namaBidang": "Biologi Molekuler dan Farmakogenomika",
+        "jurusanId": "65bb1c745c39fed270059743",
+        "deskripsi": "Membahas aplikasi biologi molekuler dan genomika dalam pengembangan obat. Dosen-dosen dapat membimbing mahasiswa dalam memahami dasar genetik respons terhadap obat dan pengembangan terapi personalisasi."
+    },
+    {
+        "namaBidang": "Farmasi Herbal",
+        "jurusanId": "65bb1c745c39fed270059743",
+        "deskripsi": "Bidang ini berkaitan dengan studi senyawa aktif dalam tumbuhan obat dan formulasi obat herbal. Dosen-dosen dapat membimbing mahasiswa dalam pengembangan produk obat herbal dan evaluasi keamanannya."
+    },
+    {
+        "namaBidang": "Farmakokinetika dan Farmakodinamika",
+        "jurusanId": "65bb1c745c39fed270059743",
+        "deskripsi": "Membahas penyerapan, distribusi, metabolisme, dan eliminasi obat dalam tubuh serta respons farmakologis. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman perilaku obat di dalam tubuh dan pengoptimalan dosis obat."
+    },
+    {
+        "namaBidang": "Pemrograman",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Bidang ini membahas pemahaman dan penerapan bahasa pemrograman. Dosen-dosen dapat membimbing mahasiswa dalam pengembangan perangkat lunak, algoritma, dan struktur data."
+    },
+    {
+        "namaBidang": "Sistem Basis Data",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Membahas perancangan dan pengelolaan basis data. Dosen-dosen dapat membimbing mahasiswa dalam pemodelan data, desain skema basis data, dan implementasi basis data berperforma tinggi."
+    },
+    {
+        "namaBidang": "Sistem Operasi",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Fokus pada studi sistem operasi komputer dan manajemen sumber daya. Dosen-dosen dapat membimbing mahasiswa dalam instalasi, konfigurasi, dan optimisasi sistem operasi."
+    },
+    {
+        "namaBidang": "Jaringan Komputer",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Bidang ini berkaitan dengan desain, implementasi, dan manajemen jaringan komputer. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman protokol jaringan, keamanan jaringan, dan administrasi jaringan."
+    },
+    {
+        "namaBidang": "Kecerdasan Buatan",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Membahas pengembangan sistem yang dapat melakukan tugas-tugas yang memerlukan kecerdasan manusia. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman konsep machine learning, neural networks, dan aplikasi kecerdasan buatan."
+    },
+    {
+        "namaBidang": "Pengembangan Aplikasi Mobile",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Fokus pada pengembangan aplikasi untuk perangkat mobile. Dosen-dosen dapat membimbing mahasiswa dalam pengembangan aplikasi Android, iOS, dan cross-platform menggunakan berbagai teknologi."
+    },
+    {
+        "namaBidang": "Rekayasa Perangkat Lunak",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Bidang ini membahas metode-metode rekayasa perangkat lunak, termasuk analisis kebutuhan, desain, implementasi, dan pengujian. Dosen-dosen dapat membimbing mahasiswa dalam pengembangan perangkat lunak yang efisien dan berkualitas."
+    },
+    {
+        "namaBidang": "Keamanan Informasi",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Membahas strategi dan teknik keamanan informasi. Dosen-dosen dapat membimbing mahasiswa dalam mengidentifikasi risiko keamanan, mengimplementasikan kebijakan keamanan, dan melakukan analisis forensik digital."
+    },
+    {
+        "namaBidang": "Pengembangan Permainan",
+        "jurusanId": "65bb1c7c5c39fed270059745",
+        "deskripsi": "Fokus pada pengembangan permainan komputer. Dosen-dosen dapat membimbing mahasiswa dalam desain permainan, pengembangan grafika, dan implementasi fitur-fitur permainan."
+    },
+    {
+        "namaBidang": "Analisis Sistem",
+        "jurusanId": "65bb1c875c39fed270059747",
+        "deskripsi": "Bidang ini membahas analisis kebutuhan sistem informasi dan perancangan solusi yang efisien. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman kebutuhan pengguna, pemodelan proses bisnis, dan dokumentasi sistem."
+    },
+    {
+        "namaBidang": "Pengembangan Perangkat Lunak",
+        "jurusanId": "65bb1c875c39fed270059747",
+        "deskripsi": "Fokus pada pengembangan perangkat lunak untuk memenuhi kebutuhan bisnis dan organisasi. Dosen-dosen dapat membimbing mahasiswa dalam siklus hidup pengembangan perangkat lunak, desain arsitektur, dan integrasi sistem."
+    },
+    {
+        "namaBidang": "Manajemen Proyek TI",
+        "jurusanId": "65bb1c875c39fed270059747",
+        "deskripsi": "Bidang ini berkaitan dengan perencanaan, pelaksanaan, dan pengendalian proyek teknologi informasi. Dosen-dosen dapat membimbing mahasiswa dalam manajemen sumber daya, jadwal proyek, dan mitigasi risiko proyek."
+    },
+    {
+        "namaBidang": "E-commerce",
+        "jurusanId": "65bb1c875c39fed270059747",
+        "deskripsi": "Bidang ini fokus pada pengembangan dan manajemen bisnis online. Dosen-dosen dapat membimbing mahasiswa dalam desain platform e-commerce, strategi pemasaran online, dan keamanan transaksi elektronik."
+    },
+    {
+        "namaBidang": "Sistem Enterprise",
+        "jurusanId": "65bb1c875c39fed270059747",
+        "deskripsi": "Membahas implementasi dan integrasi sistem informasi di tingkat enterprise. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman arsitektur enterprise, integrasi aplikasi, dan manajemen data perusahaan."
+    },
+    {
+        "namaBidang": "Keamanan Informasi",
+        "jurusanId": "65bb1c875c39fed270059747",
+        "deskripsi": "Bidang ini membahas strategi dan teknik keamanan informasi. Dosen-dosen dapat membimbing mahasiswa dalam mengidentifikasi risiko keamanan, mengimplementasikan kebijakan keamanan, dan melakukan analisis forensik digital."
+    },
+    {
+        "namaBidang": "Analisis Bisnis",
+        "jurusanId": "65bb1c875c39fed270059747",
+        "deskripsi": "Fokus pada analisis kebutuhan bisnis dan pengembangan solusi teknologi informasi yang mendukung strategi perusahaan. Dosen-dosen dapat membimbing mahasiswa dalam pemahaman proses bisnis, identifikasi peluang pengembangan, dan penyusunan laporan analisis bisnis."
+    }
+]
+  

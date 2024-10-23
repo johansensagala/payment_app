@@ -1,0 +1,52 @@
+[
+    {
+        "namaJurusan": "Ilmu Filsafat",
+        "fakultasId": "65bb18ec5ddc2753612fb1f4",
+        "deskripsi": "Jurusan yang berfokus kepada kepercayaan kristen Advent dan kependetaan"
+    },
+    {
+        "namaJurusan": "Pendidikan Matematika",
+        "fakultasId": "65bb19035ddc2753612fb1f7",
+        "deskripsi": "Jurusan yang berfokus kepada pendidikan matematika tingkat lanjut"
+    },
+    {
+        "namaJurusan": "Pendidikan Bahasa Inggris",
+        "fakultasId": "65bb19035ddc2753612fb1f7",
+        "deskripsi": "Jurusan yang berfokus kepada pendidikan bahasa Inggris tingkat lanjut"
+    },
+    {
+        "namaJurusan": "Akuntansi",
+        "fakultasId": "65bb190a5ddc2753612fb1f9",
+        "deskripsi": "Jurusan yang berfokus kepada keuangan dan perencanaan pengelolaan"
+    },
+    {
+        "namaJurusan": "Manajemen",
+        "fakultasId": "65bb190a5ddc2753612fb1f9",
+        "deskripsi": "Jurusan yang berfokus kepada manajemen bisnis"
+    },
+    {
+        "namaJurusan": "Ilmu Keperawatan",
+        "fakultasId": "65bb19115ddc2753612fb1fb",
+        "deskripsi": "Jurusan yang berfokus kepada dasar-dasar menjadi seorang perawat yang baik"
+    },
+    {
+        "namaJurusan": "Biologi",
+        "fakultasId": "65bb19175ddc2753612fb1fd",
+        "deskripsi": "Jurusan yang berfokus kepada ilmu biologi terapan"
+    },
+    {
+        "namaJurusan": "Farmasi",
+        "fakultasId": "65bb19175ddc2753612fb1fd",
+        "deskripsi": "Jurusan yang berfokus kepada dunia penyusunan, produksi, pemberian, dan pemantauan obat-obatan"
+    },
+    {
+        "namaJurusan": "Teknik Informatika",
+        "fakultasId": "65bb191f5ddc2753612fb1ff",
+        "deskripsi": "Jurusan yang berfokus kepada pemrograman, jaringan, perangkat keras komputer, dan multimedia"
+    },
+    {
+        "namaJurusan": "Sistem Informasi",
+        "fakultasId": "65bb191f5ddc2753612fb1ff",
+        "deskripsi": "Jurusan yang berfokus kepada penerapan teknologi informasi dalam dunia bisnis"
+    }
+]

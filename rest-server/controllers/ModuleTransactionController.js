@@ -124,7 +124,7 @@ const getHistories = async (req, res) => {
         const formattedTransactions = transactions.map(transaction => ({
             invoice_number: transaction.invoice_number,
             transaction_type: transaction.transaction_type,
-            description: 'Top Up balance',
+            description: transaction.transaction_type === 'TOPUP' ? 'Top Up Balance' : transaction.service_name,
             amount: transaction.amount,
             created_on: transaction.created_on
         }));

@@ -4,8 +4,6 @@ import jwt from 'jsonwebtoken';
 import { baseUrl, port } from '../config.js';
 import { addUser, findUserByEmail, updateUserImage, updateUserProfile } from '../helpers/UserHelper.js';
 
-const basePath = `${baseUrl}:${port}`;
-
 const register = async (req, res) => {
     const { first_name, last_name, email, password } = req.body;
 
@@ -209,7 +207,7 @@ const updateImage = async (req, res) => {
             });
         }
 
-        const imagePath = `${basePath}/public/ProfileImage/${file.filename}`;
+        const imagePath = `${baseUrl}/public/ProfileImage/${file.filename}`;
         
         const user = await findUserByEmail(email);
         if (!user) {

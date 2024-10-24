@@ -3,8 +3,6 @@ import { baseUrl, port } from '../config.js';
 import { addBanner, fetchBanners } from '../helpers/BannerHelper.js';
 import { addService, fetchServices } from '../helpers/ServiceHelper.js';
 
-const basePath = `${baseUrl}:${port}`;
-
 const getBanners = async (req, res) => {
     try {
         const banners = await fetchBanners();
@@ -64,7 +62,7 @@ const createBanner = async (req, res) => {
             });
         }
 
-        const banner_image = `${basePath}/public/BannerImage/${file.filename}`;
+        const banner_image = `${baseUrl}/public/BannerImage/${file.filename}`;
         const newBanner = { banner_name, banner_image, description };
 
         const bannerId = await addBanner(newBanner);
@@ -107,7 +105,7 @@ const createService = async (req, res) => {
             });
         }
 
-        const service_icon = `${basePath}/public/ServiceIcon/${file.filename}`;
+        const service_icon = `${baseUrl}/public/ServiceIcon/${file.filename}`;
         const newService = { service_code, service_name, service_icon, service_tarif };
 
         const serviceId = await addService(newService);
